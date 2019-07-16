@@ -3,3 +3,5 @@ my second file
 modified second version
 
 with head detached
+
+ERROR changes
